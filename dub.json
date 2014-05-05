@@ -1,0 +1,23 @@
+{
+	"name": "glfw-drey",
+
+    "targetName": "glfw-drey",
+
+    "description": "No description",
+
+    "authors": ["Andrej Mitrovic"],
+
+    "homepage": "https://github.com/AndrejMitrovic/glfw-drey",
+
+    "copyright": "Copyright © 2014, Andrej Mitrovic",
+
+    "license": "BSL-1.0",
+
+    "configurations": [
+		{
+			"name": "glfw-drey",
+			"targetType": "staticLibrary",
+			"targetPath": "bin",
+		},
+	]
+}
