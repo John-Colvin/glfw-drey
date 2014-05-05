@@ -5,6 +5,8 @@
 
     "description": "No description",
 
+    "sourceFiles-windows": ["implib/glfw3.lib"],
+
     "authors": ["Andrej Mitrovic"],
 
     "homepage": "https://github.com/AndrejMitrovic/glfw-drey",
