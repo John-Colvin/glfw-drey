@@ -3,7 +3,7 @@
 
     "targetName": "glfw-drey",
 
-    "description": "No description",
+    "description": "This is a copy of the Deimos glfw repository contained as a dub package.",
 
     "sourceFiles-windows": ["implib/glfw3.lib"],
 
