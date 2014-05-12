@@ -5,7 +5,8 @@
 
     "description": "This is a copy of the Deimos glfw repository contained as a dub package.",
 
-    "sourceFiles-windows": ["implib/glfw3.lib"],
+    "sourceFiles-windows-x86": ["implib/glfw3_x86.lib"],
+    "sourceFiles-windows-x86_64": ["implib/glfw3_x86_64.lib"],
 
     "authors": ["Andrej Mitrovic"],
 
