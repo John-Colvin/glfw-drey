@@ -1,5 +1,5 @@
 {
-	"name": "glfw-drey",
+    "name": "glfw-drey",
 
     "targetName": "glfw-drey",
 
@@ -7,6 +7,8 @@
 
     "sourceFiles-windows-x86": ["implib/glfw3_x86.lib"],
     "sourceFiles-windows-x86_64": ["implib/glfw3_x86_64.lib"],
+
+    "libs-posix": ["glfw"],
 
     "authors": ["Andrej Mitrovic"],
 
@@ -17,10 +19,10 @@
     "license": "BSL-1.0",
 
     "configurations": [
-		{
-			"name": "glfw-drey",
-			"targetType": "staticLibrary",
-			"targetPath": "bin",
-		},
-	]
+        {
+            "name": "glfw-drey",
+            "targetType": "staticLibrary",
+            "targetPath": "bin",
+        },
+    ]
 }
